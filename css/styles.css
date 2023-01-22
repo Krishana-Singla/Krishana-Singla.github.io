@@ -21,5 +21,10 @@ h1 {
  color: #66bfbf;
 }
 h3 {
-   color: #66bfbf;
+   color: #58c4c4;
+}
+
+.pages {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
